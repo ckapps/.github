@@ -1,0 +1,7 @@
+{
+  "name": "Bump version (pre-release)",
+  "description": "Worfklow for bumping package version using pre-releases.",
+  "iconName": "placeholder",
+  "categories": ["TypeScript", "JavaScript"],
+  "filePatterns": ["package.json$"]
+}
