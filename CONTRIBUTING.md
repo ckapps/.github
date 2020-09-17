@@ -149,13 +149,13 @@ describe('a dog', () => {
 
 This section provides a list of the labels we are using to organize and track issues and pull requests.
 
-| Label name             | search :mag_right:                            | Description                                             |
-| ---------------------- | --------------------------------------------- | ------------------------------------------------------- |
-| `:gear: package`       | [search][search-org-label-gear-package]       | (npm) package related follow.                           |
-| `:gear: project`       | [search][search-org-label-gear-project]       | Everything related to the project configuration / setup |
-| `:orange_book: docs`   | [search][search-org-label-book-docs]          | Improvements or additions to documentation              |
-| `ci`                   | [search][search-org-label-ci]                 | Related to Continous integration                        |
-| `:construction: chore` | [search][search-org-label-construction-chore] | Housekeeping                                            |
+| Label          | Label name | Label id               | search :mag_right:                            | Description                                             |
+| -------------- | ---------- | ---------------------- | --------------------------------------------- | ------------------------------------------------------- |
+| :gear:         | `package`  | `:gear: package`       | [search][search-org-label-gear-package]       | (npm) package related follow.                           |
+| :gear:         | `project`  | `:gear: project`       | [search][search-org-label-gear-project]       | Everything related to the project configuration / setup |
+| :orange_book:  | `docs`     | `:orange_book: docs`   | [search][search-org-label-book-docs]          | Improvements or additions to documentation              |
+|                | `ci`       | `ci`                   | [search][search-org-label-ci]                 | Related to Continous integration                        |
+| :construction: | `chore`    | `:construction: chore` | [search][search-org-label-construction-chore] | Housekeeping                                            |
 
 [search-org-label-gear-package]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Ackapps+label%3A":gear:+package"
 [search-org-label-gear-project]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Ackapps+label%3A":gear:+project"
