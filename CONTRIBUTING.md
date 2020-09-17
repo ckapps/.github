@@ -149,7 +149,7 @@ describe('a dog', () => {
 
 This section provides a list of the labels we are using to organize and track issues and pull requests.
 
-| Label          | Label name | Label id               | search :mag_right:                            | Description                                             |
+| Category       | Label name | Label id               | search :mag_right:                            | Description                                             |
 | -------------- | ---------- | ---------------------- | --------------------------------------------- | ------------------------------------------------------- |
 | :gear:         | `package`  | `:gear: package`       | [search][search-org-label-gear-package]       | (npm) package related follow.                           |
 | :gear:         | `project`  | `:gear: project`       | [search][search-org-label-gear-project]       | Everything related to the project configuration / setup |
