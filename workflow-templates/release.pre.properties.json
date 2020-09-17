@@ -1,0 +1,7 @@
+{
+  "name": "Create pre release",
+  "description": "Worfklow for creating GitHub pre-releases.",
+  "iconName": "placeholder",
+  "categories": ["TypeScript", "JavaScript"],
+  "filePatterns": ["package.json$"]
+}
