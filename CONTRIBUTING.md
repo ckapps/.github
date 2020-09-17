@@ -160,8 +160,7 @@ This section provides a list of the labels we are using to organize and track is
 [search-org-label-gear-package]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Ackapps+label%3A":gear:+package"
 [search-org-label-gear-project]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Ackapps+label%3A":gear:+project"
 [search-org-label-book-docs]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Ackapps+label%3A":orange_book:+docs"
-
-[search-org-label-rocket-ci]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Ackapps+label%3A":rocket: ci"
+[search-org-label-rocket-ci]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Ackapps+label%3A":rocket:+ci"
 [search-org-label-construction-chore]: https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Ackapps+label%3A":construction:+chore"
 [good-first-issue]: https://github.com/search?q=is%3Aopen+is%3Aissue+label%3A"good+first+issue"+label%3A"help+wanted"+user%3Ackapps+sort%3Acomments-desc
 [help-wanted]: https://github.com/search?q=is%3Aopen+is%3Aissue+label%3A"help+wanted"+user%3Ackapps+sort%3Acomments-desc+-label%3A"good+first+issue"
