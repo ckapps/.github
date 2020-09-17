@@ -1,6 +1,6 @@
 {
   "name": "Coveralls",
-  "description": "Worfklow for running Coveralls on the master branch.",
+  "description": "Worfklow for running Coveralls on the default branch.",
   "iconName": "placeholder",
   "categories": ["TypeScript", "JavaScript"],
   "filePatterns": ["package.json$", "^Dockerfile"]
