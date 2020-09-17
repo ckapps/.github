@@ -1,0 +1,7 @@
+{
+  "name": "npm publish",
+  "description": "Worfklow for publishing to npm registry.",
+  "iconName": "placeholder",
+  "categories": ["TypeScript", "JavaScript"],
+  "filePatterns": ["package.json$"]
+}
