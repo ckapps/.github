@@ -1,6 +1,6 @@
 {
-  "name": "Create Pre-Release",
-  "description": "Worfklow for creating GitHub pre-releases.",
+  "name": "Bump version",
+  "description": "Worfklow for bumping package version using standard-version.",
   "iconName": "placeholder",
   "categories": ["TypeScript", "JavaScript"],
   "filePatterns": ["package.json$"]
