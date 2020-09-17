@@ -1,0 +1,7 @@
+{
+  "name": "Default CI workflow",
+  "description": "Worfklow for running build and test checks.",
+  "iconName": "placeholder",
+  "categories": ["TypeScript", "JavaScript"],
+  "filePatterns": ["package.json$"]
+}
